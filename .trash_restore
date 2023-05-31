@@ -1,0 +1,15 @@
+adm=/home1/meune445/lojaphp.meunegocioweb.com/adm
+controller=/home1/meune445/lojaphp.meunegocioweb.com/controller
+lib=/home1/meune445/lojaphp.meunegocioweb.com/lib
+media=/home1/meune445/lojaphp.meunegocioweb.com/media
+model=/home1/meune445/lojaphp.meunegocioweb.com/model
+view=/home1/meune445/lojaphp.meunegocioweb.com/view
+.htaccess=/home1/meune445/lojaphp.meunegocioweb.com/.htaccess
+composer.json=/home1/meune445/lojaphp.meunegocioweb.com/composer.json
+composer.lock=/home1/meune445/lojaphp.meunegocioweb.com/composer.lock
+composer.phar=/home1/meune445/lojaphp.meunegocioweb.com/composer.phar
+composerUpdate.bat=/home1/meune445/lojaphp.meunegocioweb.com/composerUpdate.bat
+erro.php=/home1/meune445/lojaphp.meunegocioweb.com/erro.php
+error_log=/home1/meune445/lojaphp.meunegocioweb.com/error_log
+home.php=/home1/meune445/lojaphp.meunegocioweb.com/home.php
+index.php=/home1/meune445/lojaphp.meunegocioweb.com/index.php

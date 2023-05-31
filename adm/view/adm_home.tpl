@@ -1,0 +1,2 @@
+<center><img src="{$BANNER}" alt="" class="img img-responsive img-rounded"></center> <!-- img-responsive é uma classe do bootstrape que deixa a imagem responsiva-->
+                                                                                     <!-- img-rounded é uma classe do bootstrap que da um efeito na imagem-->

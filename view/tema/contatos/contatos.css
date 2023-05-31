@@ -1,0 +1,42 @@
+#frmcontatoazul
+{
+    padding:18px;
+    width:680px
+}
+
+#frmcontatoazul fieldset
+{
+    border:1px double #20a;    
+    padding-top: 10px;
+    padding-bottom: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius:4px;
+    box-shadow: 0px 0px 2px rgb(80, 82, 82);
+}
+
+#frmcontatoazul fieldset .form-group
+{
+    color:#2e08b6de;
+   
+}
+
+#frmcontatoazul fieldset legend
+{
+    background-color:#204d74;
+    color:#ffe;
+    padding:10px;    
+    margin:0px;
+    margin-bottom:20px;
+    border-radius:8px
+}
+
+#frmcontatoazul #btnenviar
+{
+    margin-top:0px
+}
+
+#frmcontatoazul .help-block
+{
+    display:none
+}
